@@ -4,7 +4,7 @@ Done in CoppeliaSim EDU, programming language: Lua
 
 
 Masters's (Mechatronic Engineering, Polytechnic of Turin):  ChatGPT-powered autonomous patrol mobile robot: a ROS2-based approach to intelligent surveillance\
-Done with a real TurtleBot4, programming language: Python\\
+Done with a real TurtleBot4, programming language: Python\
 
 
 The links for the videos are listed here:\
